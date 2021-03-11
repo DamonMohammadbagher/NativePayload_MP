@@ -33,7 +33,7 @@ NativePayload_MP2.cs (this code is Mapper/Proxy tool for working with nc [Netcat
     step3: [win]                NativePayload_MP2.exe 192.168.56.1 443
 --------------------------------------------    
     
-NativePayload_MPAgent.cs (this code is our backdoor tool) 
+NativePayload_MPAgent.cs (this code is our backdoor tool, working in memory only, without network connection) 
  
  usage: 
     
