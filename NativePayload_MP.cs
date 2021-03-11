@@ -108,49 +108,7 @@ namespace NativePayload_MP
             }
 
             Console.ReadKey(); 
-            //string Memdumps = "null/init " + "AMP" + DateTime.Now.ToString();
-
-                        //bool init = false;
-                        //new Thread(() =>
-                        //{
-                        //    using (MemoryMappedFile mmf = MemoryMappedFile.OpenExisting("IntermediateMapsCMDs"))
-                        //    {
-                        //        Mutex mutex = Mutex.OpenExisting("MUTEX_IntermediateMapsCMDs");
-                        //        while (true)
-                        //        {
-
-                        //            using (MemoryMappedViewStream stream = mmf.CreateViewStream())
-                        //            {
-                        //                BinaryReader reader = new BinaryReader(stream);
-                        //                Console.WriteLine("Searching in-Memory...");
-                        //                if (reader.ReadString().Contains("null/init " + "MP" ))
-                        //                {
-                        //                    init = true;
-                        //                    Console.WriteLine("[!] New Process Found! [" + DateTime.Now.ToString() + "]");
-                        //                    Console.WriteLine(reader.ReadString());
-                        //                }
-                        //                System.Threading.Thread.Sleep(1000);
-
-                        //                if (!reader.ReadString().Contains("null/init" + "MP") || init)
-                        //                {
-                        //                    using (MemoryMappedViewStream streamw = mmf.CreateViewStream())
-                        //                    {
-                        //                        Console.WriteLine("[!] New Command Echo Send to memory [" + DateTime.Now.ToString() + "]");
-                        //                        Console.WriteLine(reader.ReadString());
-
-                        //                        BinaryWriter writer = new BinaryWriter(stream);
-                        //                        string ss = DateTime.Now.ToString();
-                        //                        writer.Write("@c@echo " + ss);
-                        //                    }
-                        //                }
-                        //            }
-                        //            System.Threading.Thread.Sleep(1000);
-                        //        }
-
-
-                        //    }
-                        //}).Start();
-
+       
                     }
     }
 }
