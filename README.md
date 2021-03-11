@@ -43,7 +43,7 @@ NativePayload_MPAgent.cs (this code is our backdoor tool, working in memory only
     
 Article [1]: https://www.linkedin.com/pulse/memory-mapping-file-connection-in-memory-between-damon-mohammadbagher/
 
-Article [2]: 
+Article [2]: file:///home/ubuntu/Documents/10-mar-2021/10mar2021x.html
 
 Video:
 
