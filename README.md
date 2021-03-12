@@ -13,7 +13,7 @@ C# Memory Mapped File & Connection in-memory between Backdoor & Proxy Process
 --------------------------------------------    
 
 
- NativePayload_MP1.cs (this code is Mapper/Proxy tool for working with NativePayload_HTTP.cs as web Exfil-server tool) 
+ NativePayload_MP1.cs (this code is Mapper/Proxy tool for working with NativePayload_HTTP.sh as web Exfil-server tool) 
  
  usage: 
     
@@ -48,7 +48,7 @@ Article [2]: https://damonmohammadbagher.github.io/Posts/10mar2021x.html
 Video:
 
 ------------------------------------------------
-NativePayload_MP1.cs (this code is Mapper/Proxy tool for working with NativePayload_HTTP.cs as web Exfil-server tool) 
+NativePayload_MP1.cs (this code is Mapper/Proxy tool for working with NativePayload_HTTP.sh as web Exfil-server tool) 
  
 ![](https://github.com/DamonMohammadbagher/NativePayload_MP/blob/main/Pics/1.png)
 
