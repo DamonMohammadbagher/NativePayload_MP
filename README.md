@@ -63,3 +63,5 @@ NativePayload_MP2.cs (this code is Mapper/Proxy tool for working with nc [Netcat
 ![](https://github.com/DamonMohammadbagher/NativePayload_MP/blob/main/Pics/mp2-01.png)
 
 
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_MP"/></a></p>
+
